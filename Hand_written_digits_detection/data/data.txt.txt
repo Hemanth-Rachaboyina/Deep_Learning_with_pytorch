@@ -1,0 +1,1 @@
+Data for this project is fetched in the code itself , using torchvision.datasets module . please check the code , when execute the code a folder named data with required data will be saved .
